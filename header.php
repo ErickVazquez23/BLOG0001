@@ -9,5 +9,5 @@
     <link rel="stylesheet" type="text/css" href="../css/style.css">
     <link href="https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Roboto:100&display=swap" rel="stylesheet"> 
-    <title>Blog</title>
+    <title>Blog001</title>
 </head>
